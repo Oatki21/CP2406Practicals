@@ -1,6 +1,13 @@
-public class NumbersDemo {
+
+import java.util.Scanner;
+
+public class NumbersDemo2 {
     public static void main(String[] args){
-        int a = 5, b = 3;
+        Scanner inputDevice = new Scanner(System.in);
+        System.out.print("Please enter number a: ");
+        int a = inputDevice.nextInt();
+        System.out.print("Please enter number b: ");
+        int b = inputDevice.nextInt();
         displayTwiceTheNumber(a);
         displayTwiceTheNumber(b);
         displayNumberPlusFive(a);
