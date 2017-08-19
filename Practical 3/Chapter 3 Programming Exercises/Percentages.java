@@ -4,10 +4,11 @@
 public class Percentages{
 
     public static void main(String[] args){
-        double a=3.0;
-        double b=5.0;
+        double a = 1.0;
+        double b = 10.0;
+        computePercent(a,b);
         }
-    public static void computePercent(int a,int b){
-
+    public static void computePercent(double a,double b){
+        System.out.println(a+" is "+((a/b)*100)+ " percent of "+b);
     }
 }
