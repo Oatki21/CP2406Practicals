@@ -1,5 +1,5 @@
 // Some circle statistics
-public class DebugFourTwo {
+public class FixDebugFourTwo {
         public static void main(String args[])
         {
             double radius = 1;

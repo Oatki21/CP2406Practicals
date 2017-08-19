@@ -6,13 +6,13 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Practical 2/CodeInFigures" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Practical 2/DebuggingExercises" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Practical 3/CodeInFigures" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Practical 3/DebuggingExercises" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Practical 2/ProgrammingExercises" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Practical 3/Chapter 3 Programming Exercises" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Practical 3/DebuggingExercises4" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Practical 3/Chapter 4 Programming Exercises" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Practical 3/CodeInFigures4" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Practical 3/CodeInFigures" />
+      <excludeFolder url="file://$MODULE_DIR$/Practical 3/CodeInFigures4" />
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
