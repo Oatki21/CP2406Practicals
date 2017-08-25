@@ -15,10 +15,11 @@
       <sourceFolder url="file://$MODULE_DIR$/Practical 4/DebuggingExercises" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Practical 4/Chapter5ProgrammingExercises" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Practical 4/Chapter6DebuggingExercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Practical 4/Chapter6ProgrammingExercises" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Practical 3/CodeInFigures" />
       <excludeFolder url="file://$MODULE_DIR$/Practical 3/CodeInFigures4" />
     </content>
-    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
