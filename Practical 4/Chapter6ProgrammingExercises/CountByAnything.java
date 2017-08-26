@@ -5,10 +5,12 @@ import java.util.Scanner;
  */
 public class CountByAnything {
     public static void main(String[] args) {
-        int min = 1, max = 100,num,count = 0;
+        int min = 0, max,num,count = 0;
         Scanner input = new Scanner(System.in);
-        System.out.print("Enter a number ");
+        System.out.print("Enter a number to count by");
         num = input.nextInt();
+        System.out.print("Enter a number to count to");
+        max = input.nextInt();
         while (min <= max) {
             System.out.print(min + "  ");
             count++;
