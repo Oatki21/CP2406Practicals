@@ -19,6 +19,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Practical 5/DebuggingExercises" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Practical 5/Chapter7ProgrammingExercises" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Practical 5/Chapter8ProgrammingExercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Practical 6/ProgrammingExercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Practical 6/Debugging" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Practical 3/CodeInFigures" />
       <excludeFolder url="file://$MODULE_DIR$/Practical 3/CodeInFigures4" />
     </content>
