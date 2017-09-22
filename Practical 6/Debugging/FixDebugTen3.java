@@ -1,4 +1,4 @@
-// A PhoneBook is a Book with a city
+// A PhoneBook is a Book.Book with a city
 import javax.swing.*;
 public class FixDebugTen3
 {
