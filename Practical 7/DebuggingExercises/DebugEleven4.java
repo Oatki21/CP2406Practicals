@@ -26,7 +26,7 @@ public class DebugEleven4
    {
       String boatType;
       boatType = JOptionPane.showInputDialog(null, 
-         "Enter r for rowboat; o for ocean liner ");
+         "Type r to represent rowboat; o to represent ocean liner ");
       return boatType.charAt(0);
    }
    public static void displayArray()

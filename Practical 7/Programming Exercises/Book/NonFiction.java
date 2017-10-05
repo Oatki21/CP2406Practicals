@@ -1,6 +1,5 @@
 package Book;
 
-import Book.Book;
 
 public class NonFiction extends Book {
     public NonFiction(String title) {

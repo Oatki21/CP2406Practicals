@@ -7,16 +7,16 @@ public class InternationalDivision extends Division
 {
     protected String country;
     protected String language;
-    public InternationalDivision(String title, int acct, String cty, String lang)
+    public InternationalDivision(String title, int acc, String ctry, String lang)
     {
-        super(title, acct);
-        country = cty;
+        super(title, acc);
+        country = ctry;
         language = lang;
     }
     public void display()
     {
         System.out.println("International Division: " + divisionTitle +
-                "  Acct #" + acctNum + "\nLocated in " + country +
-                " Language is " + language);
+                "  Acct #: " + accNum + "\nLocated in " + country +
+                " Main language spoken is " + language);
     }
 }

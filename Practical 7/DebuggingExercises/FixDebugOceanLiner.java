@@ -8,10 +8,10 @@ public class FixDebugOceanLiner extends FixDebugBoat
    }
    public void setPassengers()
    {
-      super.passengers = 2400;
+      super.passengers = 5000;
    }
    public void setPower()
    {
-      super.power = "four engines";
+      super.power = "3 engines";
    }
 }

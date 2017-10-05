@@ -6,11 +6,11 @@ package Division;
 public abstract class Division
 {
     protected String divisionTitle;
-    protected int acctNum;
-    public Division(String title, int acct)
+    protected int accNum;
+    public Division(String title, int acc)
     {
         divisionTitle = title;
-        acctNum = acct;
+        accNum = acc;
     }
     public abstract void display();
 }
